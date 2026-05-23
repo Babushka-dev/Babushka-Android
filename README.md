@@ -16,9 +16,9 @@ The app is connected to the active Django backend through Retrofit. It stores th
 
 ## Project Pair
 
-- [**Babushka Android**](../Babushka-android): the mobile app in this repository.
-- [**Babushka Django**](../Babushka-backend-django): the active backend REST API used by the Android app.
-- [**Babushka Spring**](../Babushka-backend-spring): the old backend prototype, kept for reference.
+- [**Babushka Android**](https://github.com/Babushka-dev/Babushka-Android): the mobile app in this repository.
+- [**Babushka Django**](https://github.com/Babushka-dev/Babushka-Django): the active backend REST API used by the Android app.
+- [**Babushka Spring**](https://github.com/Babushka-dev/Babushka-Spring): the old backend prototype, kept for reference.
 
 By default, the app connects to the local Django backend at:
 
@@ -87,7 +87,7 @@ The images below are placeholders for project screenshots. Create these screensh
 
 ## Running Locally
 
-1. Start the [Babushka Django](../Babushka-backend-django) backend.
+1. Start the [Babushka Django](https://github.com/Babushka-dev/Babushka-Django) backend.
 2. Open `Babushka-Android/` in Android Studio.
 3. Build and run the app on an emulator or Android device.
 4. If you use an emulator, keep the default backend URL:
